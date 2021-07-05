@@ -16,6 +16,7 @@ p{
 }
 section{
     display: flex;
+    margin: 100px;
 }
 
 .jahid1 img{
@@ -29,6 +30,7 @@ section{
     border-radius: 5px;
     font-weight: 700px;
     color: yellow;
+    margin: 100px;
     
 }
 .topbannar{
@@ -37,4 +39,9 @@ section{
 }
 .jahi{
     padding-left: 10px;
+}
+.dream-big{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
